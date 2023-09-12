@@ -6,7 +6,7 @@ The aforementioned consequences will similarly extend to our forthcoming website
 
 Please be aware that we hold no responsibility for any infractions committed on other servers employing our bot, nor do we bear responsibility for the rules enforced within those servers.
 
-Violation of rules within our support server (as delineated in ⁠📜｜rules) will lead to server-related consequences and potential limitations on bot access.
+Violation of rules within our support server (as delineated in [📜｜rules](https://discord.com/channels/1147589677830918154/1147590147404218439)) will lead to server-related consequences and potential limitations on bot access.
 
 In using the bot, you agree to have your user id stored in our database so we can indentify you when using commands. We do not store any message content or profile information.
 
