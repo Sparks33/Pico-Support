@@ -20,11 +20,11 @@ We never share any data to others. If you have concerns about your data then you
 
 # Data Disposal and Deletion
 
-At [Pico], safeguarding user data is our top priority. Our data disposal and deletion process is built to be robust, ensuring the complete removal of user information. We provide a reliable and efficient way for users to request the deletion of their data using Google Forms, and we commit to a stringent timeline for data removal. We employ a comprehensive and loophole-free data disposal mechanism. When a user submits a data deletion request, it get's sent to us using a webhook and we ensure that all associated information, including user IDs, guild IDs, levels, coin counts, and message counts, is permanently and securely deleted from our systems. We leave no room for potential data breaches or remnants.
+At Pico, safeguarding user data is our top priority. Our data disposal and deletion process is built to be robust, ensuring the complete removal of user information. We provide a reliable and efficient way for users to request the deletion of their data using Google Forms, and we commit to a stringent timeline for data removal. We employ a comprehensive and loophole-free data disposal mechanism. When a user submits a data deletion request, it get's sent to us using a webhook and we ensure that all associated information, including user IDs, guild IDs, levels, coin counts, and message counts, is permanently and securely deleted from our systems. We leave no room for potential data breaches or remnants.
 
 **Reliability and Timeliness**
 
-Our team of developers are dedicated to delivering a reliable and prompt data deletion service. Upon receiving a request through our designated Google Forms submission, we initiate the data removal process immediately. We understand the importance of timely action in preserving your privacy. As a standard practice, your data will be permanently expunged within [7 business days] from the submission date.
+Our team of developers are dedicated to delivering a reliable and prompt data deletion service. Upon receiving a request through our designated Google Forms submission, we initiate the data removal process immediately. We understand the importance of timely action in preserving your privacy. As a standard practice, your data will be permanently expunged within 7 business days from the submission date.
 
 Our data disposal process is tailored specifically for our Bot's environment, ensuring the highest level of data security and privacy protection. We take every measure to guarantee the safe handling and disposal of your data within the context of our Discord bot's operations.
 
